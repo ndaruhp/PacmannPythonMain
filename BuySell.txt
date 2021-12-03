@@ -107,3 +107,5 @@ vwapValue = sumSrc / sumVol
 plot(vwapValue, title="VWAP", color=color.white, linewidth=1)
 
 //EOS
+
+--tes
